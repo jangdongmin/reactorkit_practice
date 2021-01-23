@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (5.2.2)
+  - ObjectMapper (3.5.3)
+  - ReactorKit (2.1.1):
+    - RxSwift (~> 5.0)
+    - WeakMapTable (~> 1.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxGesture (3.0.2):
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxViewController (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftyJSON (4.3.0)
+  - WeakMapTable (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - ObjectMapper (~> 3.5)
+  - ReactorKit
+  - RxCocoa (~> 5)
+  - RxGesture
+  - RxSwift (~> 5)
+  - RxViewController
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - ReactorKit
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - RxViewController
+    - SDWebImage
+    - SwiftyJSON
+    - WeakMapTable
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ReactorKit: 6d894a20c3d508344320901cd8e386fde92df4b6
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxGesture: d6bd7447ca3a596c7a9702a6a2b6a2bb5d8bae54
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxViewController: 7330a46e5c31cd680db169da4c9fc8676e975a81
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  WeakMapTable: 05c694ce8439a7a9ebabb56187287a63c57673d6
+
+PODFILE CHECKSUM: 095d9f9ffd684281f34fc6196ef9681d1c590339
+
+COCOAPODS: 1.8.4
