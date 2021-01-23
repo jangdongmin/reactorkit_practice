@@ -1,0 +1,6 @@
+framework module Pods_GIPHY_SAMPLE {
+  umbrella header "Pods-GIPHY_SAMPLE-umbrella.h"
+
+  export *
+  module * { export * }
+}
